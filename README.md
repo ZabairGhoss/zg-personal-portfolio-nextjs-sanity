@@ -60,3 +60,9 @@ Now, you can start the development server:
    npm run dev
 
 Visit your site by opening your browser and navigating to http://localhost:3000 to see your Portfolio Site in action.
+
+### Site Customization
+Feel free to customize the content, design, and functionality of this portfolio site to make it your own. You can update the content in Sanity, modify the styles using TailwindCSS, and add new sections or features to suit your needs.
+
+# - **Live Site:** [Your Deployed Portfolio](https://your-live-site-link.com)
+# - **GitHub Repository:** [Portfolio on GitHub](https://github.com/yourusername/your-portfolio)
