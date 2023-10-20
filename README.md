@@ -24,3 +24,13 @@ Welcome to my Portfolio Site! This project is built using Sanity, Next.js, and T
   
 - [TailwindCSS](https://tailwindcss.com/): A utility-first CSS framework that helps in creating beautiful, responsive designs with ease.
 
+
+## Getting Started
+
+To get this project up and running on your local machine, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/ZabairGhoss/zg-personal-portfolio-nextjs-sanity.git
+   cd zg-personal-portfolio-nextjs-sanity
