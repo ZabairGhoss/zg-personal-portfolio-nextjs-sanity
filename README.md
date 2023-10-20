@@ -39,3 +39,16 @@ To get this project up and running on your local machine, follow these steps:
 
    ```bash
    npm install
+
+
+### Setting Up Sanity
+To set up Sanity, follow these instructions:
+
+1. **Create Sanity Project:**
+   You'll need to create a Sanity project. If you haven't already, sign up for an account and create a new project.
+
+2. **Configure Your Sanity Studio:**
+   Configure the Sanity Studio to create content models for your About information, Projects, Skills, and Work experience. You can customize the schema to suit your specific needs.
+
+3. **Environment Variables:**
+   Create a .env.local file in the root of your project and configure the environment variables for your Sanity project. You can reference the .env.example file for guidance.
