@@ -34,3 +34,8 @@ To get this project up and running on your local machine, follow these steps:
    ```bash
    git clone https://github.com/ZabairGhoss/zg-personal-portfolio-nextjs-sanity.git
    cd zg-personal-portfolio-nextjs-sanity
+
+2. **Install Dependencies:**
+
+   ```bash
+   npm install
