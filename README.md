@@ -52,3 +52,11 @@ To set up Sanity, follow these instructions:
 
 3. **Environment Variables:**
    Create a .env.local file in the root of your project and configure the environment variables for your Sanity project. You can reference the .env.example file for guidance.
+
+### Starting the Development Server
+Now, you can start the development server:
+
+```bash
+   npm run dev
+
+Visit your site by opening your browser and navigating to http://localhost:3000 to see your Portfolio Site in action.
