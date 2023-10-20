@@ -15,3 +15,12 @@ Welcome to my Portfolio Site! This project is built using Sanity, Next.js, and T
 - **Attractive Design:** The site features a visually appealing and user-friendly design to engage and inform visitors effectively.
 
 - **Smooth User Experience:** The site is optimized for a seamless user experience, ensuring fast load times and intuitive navigation.
+
+## Technologies Used
+
+- [Sanity](https://www.sanity.io/): A powerful headless CMS that enables easy content management and seamless integration with Next.js.
+  
+- [Next.js](https://nextjs.org/): A popular React framework for building fast, production-ready web applications.
+  
+- [TailwindCSS](https://tailwindcss.com/): A utility-first CSS framework that helps in creating beautiful, responsive designs with ease.
+
