@@ -1,3 +1,17 @@
 # Portfolio Site with Sanity, Next.js, and TailwindCSS
 
 Welcome to my Portfolio Site! This project is built using Sanity, Next.js, and TailwindCSS to showcase detailed information about myself, my projects, skills, and work experience. With an attractive design and a smooth user experience, this site is designed to help you learn more about me and my work. 
+
+## Site Features
+
+- **Detailed About Information:** Learn more about me, my background, and my interests through a comprehensive About section.
+  
+- **Project Showcase:** Explore a collection of my projects with detailed descriptions, images, and links to live demos or GitHub repositories.
+  
+- **Skills:** Discover the skills and technologies I'm proficient in, and get insights into my expertise.
+  
+- **Work Experience:** Get an overview of my professional journey, including previous job positions and responsibilities.
+
+- **Attractive Design:** The site features a visually appealing and user-friendly design to engage and inform visitors effectively.
+
+- **Smooth User Experience:** The site is optimized for a seamless user experience, ensuring fast load times and intuitive navigation.
